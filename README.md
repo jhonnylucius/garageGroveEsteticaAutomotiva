@@ -1,4 +1,4 @@
-# GarageGrove Estética Automotiva 🚗💦</br>
+# Grove Garage Estética Automotiva 🚗💦</br>
 </br>
 Este README documenta o processo completo para criar e configurar o projeto GarageGrove Estética Automotiva utilizando Flutter, Firebase e Gradle.</br>
 </br>
